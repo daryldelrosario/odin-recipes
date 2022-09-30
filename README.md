@@ -8,3 +8,12 @@ Skills and concepts acquired:
 - HTML elements, tags, and attributes
 - Headers, text-style (Strong, Emphasis), text-structure (Paragraphs)
 - Inserting links and images 
+
+UPDATED:
+Skills and concepts acquired:
+- Applying CSS style to HTML
+- CSS via external, internal, inline
+- Recommended to use external CSS
+
+For the website:
+- Added a simple body and img style
